@@ -1,11 +1,11 @@
-すきなリズムで　１０かい\xfffeしたがめんを　タッチしてください
-チェックが　おわりました　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-せきがいせんつうしんが　\xfffeつながりました！
-つうしんが　きれました\xfffeせきがいせんを　あわせてください
+Bitte berühre in einem beliebigen Rhythmus\xfffezehnmal den Touchscreen.
+Test abgeschlossen. Bitte stelle eine\xfffeInfrarotverbindung zum Gegenüber her.
+Harmonietest läuft...\xfffeBitte die Infrarotverbindung nicht trennen.
+Infrarotverbindung hergestellt!
+Die Verbindung wurde unterbrochen.\xfffeBitte stelle eine Infrarotverbindung her.
 もどる
 タッチ　スタート
-リズムチェック
+RHYTHMUSTEST
 no data
 no data
 no data
