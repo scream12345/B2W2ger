@@ -1,5 +1,5 @@
-けってい
-もどる
+O.K.
+ZURÜCK
 L\xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ȃ\x0001\x0000
@@ -7,76 +7,76 @@ L\xf000Ȃ\x0001\x0000
 ／
 ♂
 ♀
-ポケモンを　えらんでください
-ポケモンを　えらんでください
-どこに　いどうする？
-どのポケモンに　もたせる？
-どのポケモンに　つかう？
-どのポケモンに　おしえる？
+Wähle ein Pokémon.
+Wähle ein Pokémon.
+An wessen Stelle setzen?
+Welchem Pokémon geben?
+Welches Pokémon?
+Welchem Pokémon beibringen?
 ポケモンをえらんで　けってい
-どのポケモンを　あずける？
-どのポケモンに　つかう？
+Welches Pokémon ablegen?
+Welches Pokémon??
 どのポケモンと　がったい？
-\xf000Ă\x0001\x0000を\xfffeどうする？
-もちものを\xfffeどうしますか？
+\xf000Ă\x0001\x0000 wurde\xfffeausgewählt.
+Ein Item geben oder\xfffenehmen?
 メールを\xfffeどうしますか？
-どのわざを\xfffeかいふくする？
-どのわざを\xfffeふやす？
-とった　メールを　パソコンに\xfffeてんそう　しますか？
-はい
-いいえ
+Welche Attacke soll\xfffeaufgefüllt werden?
+AP welcher Attacke\xfffeanheben?
+Den abgenommenen Brief\xfffeauf deinen PC übertragen?
+Yes
+No
 とった　メールを　パソコンに\xfffeてんそう　しました
 メールを　とると　メッセージが\xfffeきえてしまいますが　よろしいですか？
-はい
-いいえ
+Yes
+No
 パソコンの　メールボックスが\xfffeいっぱいです！
 ポケモンから　メールを\xfffeとりました！
 \xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえたい……\xf000븁\x0000\xfffeしかし　\xf000Ă\x0001\x0000は　わざを　４つ\xfffeおぼえるので　せいいっぱいだ！\xf000븁\x0000\xfffe\xf000ć\x0001\x0001の　かわりに\xfffeほかの　わざを　わすれさせますか？
-はい
-いいえ
+Yes
+No
 それでは……　\xf000ć\x0001\x0001を\xfffeおぼえるのを　あきらめますか？
-はい
-いいえ
-\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001を\xfffeおぼえずに　おわった！
-どの　わざを\xfffeわすれさせたい？
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014　…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいにわすれた！\xf000븁\x0000\xfffeそして……！
-\xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえた！\xf000븅\x0001\x0002\xf000븅\x0001\x0005
-\xf000Ă\x0001\x0000と　\xf000ć\x0001\x0001は\xfffeあいしょうが　わるかった！\xf000븁\x0000\xfffe\xf000ć\x0001\x0001は　おぼえられない！
-\xf000Ă\x0001\x0000は　すでに\xfffe\xf000ć\x0001\x0001を　おぼえています
-\xf000Ă\x0001\x0000の　たいりょくが\xfffe\xf000Ȃ\x0001\x0001　かいふくした！
-\xf000Ă\x0001\x0000の　どくは\xfffeきれい　さっぱり　なくなった！
-\xf000Ă\x0001\x0000の\xfffeからだの　しびれが　とれた！
-\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-\xf000Ă\x0001\x0000の\xfffeからだの　こおりが　とけた！
-パワーポイントが　かいふくした！　
-\xf000Ă\x0001\x0000は\xfffeげんきを　とりもどした！
-\xf000Ă\x0001\x0000は\xfffeけんこうに　なった！
-\xf000ć\x0001\x0000の\xfffeパワーポイントが　ふえた！
+Yes
+No
+\xf000Ă\x0001\x0000 hat \xf000ć\x0001\x0001\xfffenicht erlernt.
+Welche Attacke soll vergessen\xfffewerden?
+Eins, \xf000븂\x0001\x0014zwei und\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... schwupp!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 hat\xfffe\xf000ć\x0001\x0001 vergessen.\xf000븁\x0000\xfffeUnd...
+\xf000Ă\x0001\x0000 erlernt\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+\xf000Ă\x0001\x0000 und \xf000ć\x0001\x0001\xfffesind nicht kompatibel.\xf000븁\x0000\xfffe\xf000ć\x0001\x0001 kann nicht\xfffeerlernt werden.
+\xf000Ă\x0001\x0000 kennt\xfffe\xf000ć\x0001\x0001 bereits.
+Die KP von \xf000Ă\x0001\x0000 wurden\xfffeum \xf000Ȃ\x0001\x0001 Punkt(e) aufgefüllt.
+Die Vergiftung von \xf000Ă\x0001\x0000\xfffewurde geheilt.
+Die Paralyse von \xf000Ă\x0001\x0000\xfffewurde aufgehoben.
+Verbrennung von \xf000Ă\x0001\x0000\xfffewurde geheilt.
+\xf000Ă\x0001\x0000 wurde aufgetaut.
+AP wurden aufgefüllt.　
+\xf000Ă\x0001\x0000 hat sich wieder erholt!
+\xf000Ă\x0001\x0000 erholte sich.
+AP von \xf000ć\x0001\x0000\xfffewurden angehoben.
 \xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
 \xf000Ă\x0001\x0000の\xfffeメロメロが　とけた！
 \xf000Ă\x0001\x0000は　\xf000č\x0001\x0001の\xfffeきそポイントが　あがった！
 あたらしい　バッジを　てにするまで\xfffeまだ　つかえません
 メールを　はずさないと\xfffeどうぐは　もてません！
 \xf000Ă\x0001\x0000は　すでに\xfffe\xf000ĉ\x0001\x0001を　もっています\xf000븁\x0000\xfffeもっている　どうぐを\xfffeとりかえますか？
-はい
-いいえ
+Yes
+No
 \xf000Ă\x0001\x0000は　どうぐを\xfffeなにも　もっていません！
 \xf000Ă\x0001\x0000から\xfffe\xf000ĉ\x0001\x0001を　あずかりました！
 バッグが　いっぱいで\xfffeどうぐを　うけとれません！
 \xf000ĉ\x0001\x0001を　あずかり\xfffe\xf000ĉ\x0001\x0002を　もたせました！
 さんかを　やめますか？
-はい
-いいえ
+Yes
+No
 ちょうせんを　やめますか？
-はい
-いいえ
+Yes
+No
 \xf000Ă\x0001\x0000は\xfffeめを　さました！
 ここを　だっしゅつ　して\xfffe\xf000ą\x0001\x0000に　もどる？
-はい
-いいえ
+Yes
+No
 テレポートして\xfffe\xf000ą\x0001\x0000に　もどる？
-はい
-いいえ
+Yes
+No
 さんか　できる　ポケモンは\xfffe２ひき　まで　です！
 すでに　なみのり　しています
 ここでは　つかえません
@@ -110,20 +110,20 @@ L\xf000Ȃ\x0001\x0000
 すでに　どうぐを　もっているので\xfffeメールを　もたせることが　できません
 そのポケモンには\xfffeつかえません
 ここを　だっしゅつして\xfffe\xf000ą\x0001\x0000に　もどる？
-はい
-いいえ
+Yes
+No
 さいごに　やすんだ\xfffe\xf000ą\x0001\x0000に　もどる？
-はい
-いいえ
+Yes
+No
 たいりょくが　たりません……
-ならびかえ
-つよさをみる
-もちもの
+Switch
+Summary
+Item
 メール
 メールを　よむ
 メールを　とる
-あずける
-やめる
+Store
+Quit
 いれかえる
 さんかする
 さんかしない
@@ -131,8 +131,8 @@ L\xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
-もたせる
-あずかる
+Give
+Take
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
@@ -159,12 +159,12 @@ L\xf000Ȃ\x0001\x0000
 ポケモンの　レベルの　ごうけいが\xfffe\xf000Ȃ\x0001\x0000を　こえています
 でんせつの　ポケモンが\xfffe３ひき　いじょう　います
 さんか　しなければ　ならない\xfffeポケモンが　えらばれて　いません
-さいだいＨＰ
-こうげき
-ぼうぎょ
-とくこう
-とくぼう
-すばやさ
+Max HP
+Attack
+Defence
+SP.Atk
+SP.Def
+Speed
 ＋
 \xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000は\xfffeレベル\xf000Ȃ\x0001\x0001　に　あがった！\xf000븅\x0001\x0002\xf000븅\x0001\x0005
@@ -187,6 +187,6 @@ L\xf000Ȃ\x0001\x0000
 \xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
 つうしんたいきちゅう
-はい
-いいえ
+Yes
+No
 \xf000ĉ\x0001\x0000が　なくなりました
