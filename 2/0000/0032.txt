@@ -4,10 +4,10 @@ ANIMATION
 KAMPFSTIL
 TON
 TEXTMODUS
-RADIO
-ＩＲ-SICHERUNG
+Wi-Fi
+IR-SICHERUNG
 O.K.
-ZURUECK
+ZURÜCK
 1
 2
 3
@@ -17,21 +17,21 @@ TAUSCH
 FOLGE
 STEREO
 MONO
-ひらがな
-かんじ
-オン
-オフ
-かく
-かかない
-Waehle zwischen drei verschiedenen\xfffeTextgeschwindigkeiten.
-Waehle, ob in den Kaempfen Animationen für\xfffedie Attacken angezeigt werden sollen.
-Waehle zwischen zwei verschiedenen\xfffeKampfstilen.
-Waehle, wie das\xfffeSpiel klingen soll.
-もじの　ひょうじを\xfffeきりかえることが　できます
-いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
-Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
-べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
-Aenderungen vornehmen？
 JA
 NEIN
-ダミーメッセージ
+AN
+AUS
+SAVE
+NO SAVE
+Wähle zwischen drei verschiedenen\xfffeTextgeschwindigkeiten.
+Wähle, ob in den Kämpfen Animationen für\xfffedie Attacken angezeigt werden sollen.
+Wähle zwischen zwei verschiedenen\xfffeKampfstilen.
+Wähle, wie das Spiel klingen sol
+You can change the game's language.
+You can turn wireless communication\xfffeon or off.
+Wähle, ob du vor dem Einsatz der\xfffeInfrarotfunktion speichern möchtest.
+Es existieren bereits andere Speicherdaten.\xfffeÄnderung nicht möglich.\xf000븁\x0000
+Änderungen vornehmen?
+JA
+NEIN
+Dummy Message.
