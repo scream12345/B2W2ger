@@ -1,17 +1,17 @@
-メールボックス
+BRIEFBOX
 \xf000Ȁ\x0001\x0000
 ／
-やめる
-とじる
-メールを　よむ
-メールを　けす
-もたせる
-やめる
-\xf000Ā\x0001\x0000の\xfffeメールを　どうしますか？
-ないようは　きえて　しまいますが\xfffeよろしいですか？
-ないようを　けしました
-ポケモンに　もたせますか？
-ないようを　けした　メールを\xfffeバッグに　しまいました
-バッグが　いっぱいです……\xfffeメールを　すてました
-はい
-いいえ
+CANCEL
+CONFIRM
+LESEN
+LÖSCHEN
+GEBEN
+ZURÜCK
+Was soll mit dem Brief von\xfffe\xf000Ā\x0001\x0000 geschehen?
+Damit geht der Inhalt des Briefes\xfffeverloren. Ist das in Ordnung für dich?
+Die Mitteilung wurde gelöscht.
+Soll ein Pokémon diesen Brief tragen?
+Der Brief mit gelöschtem Inhalt\xfffewurde im Beutel verstaut.
+Da dein Beutel voll ist, wurde der\xfffeBrief weggeworfen.
+JA
+NEIN
