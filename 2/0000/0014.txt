@@ -1,56 +1,56 @@
-\xf000Ă\x0001\x0000を　どうする？
+Was soll mit \xf000Ă\x0001\x0000 geschehen?
 マーキング　してください
-ほんとうに　にがしますか？
-\xf000Ă\x0001\x0000を　そとに　にがしてあげた
-ばいばい　\xf000Ă\x0001\x0000！
-てもちが　いっぱいです！
-たたかうポケモンが　いなくなります！
-このボックスを　どうしますか？
-どのボックスに\xfffeジャンプしますか？
-どのテーマに　しますか？
-どの　かべがみに　しますか？
-ボックスそうさを　つづけますか？
-このボックスは　いっぱいです！
-バッグが　いっぱいです！
-\xf000ĉ\x0001\x0000を　あずかった！
-\xf000ĉ\x0001\x0000を　もたせた！
-ポケモンを　タッチ！
-どのボックスへ　あずける？
+Dieses Pokémon wirklich freilassen?
+\xf000Ă\x0001\x0000 ist wieder frei.
+Mach's gut, \xf000Ă\x0001\x0000!
+Dein Team ist voll!
+Das ist dein letztes Pokémon!
+Eine Box wurde ausgewählt. Was nun?
+Zu welcher Box springen?
+Wähle eine Motivkategorie.
+Wähle ein Hintergrundmotiv.
+Die Box weiter bearbeiten?
+Die Box ist voll.
+Der Beutel ist voll.
+Du nimmst \xf000ĉ\x0001\x0000 an dich.
+\xf000ĉ\x0001\x0000 wird nun getragen.
+Berühre ein Pokémon!
+In welcher Box ablegen?
 もちものなし
 ♂
 ♀
-\xf000ĉ\x0001\x0000を　あずかりますか？
-メールをしまうことは　できません！
-\xf000ĉ\x0001\x0000を　どうしますか？
-\xf000ĉ\x0001\x0000を　しまいますか？
-\xf000ĉ\x0001\x0000を　バッグに　いれた！
-どうぐを　もつことが　できます
-メールを　はずしてください！
-タマゴを　にがすことは　できません！
+\xf000ĉ\x0001\x0000 an dich nehmen?
+Briefe können nicht gelagert werden!
+\xf000ĉ\x0001\x0000 wurde ausgewählt. Was nun?
+\xf000ĉ\x0001\x0000 wegpacken?
+\xf000ĉ\x0001\x0000 wurde im Beutel verstaut.
+Du kannst diesem Pokémon ein Item geben.
+Brief bitte entfernen.
+Du kannst kein Ei freilassen!
 がったいした　キュレムは　にがせません！
-\xf000Ă\x0001\x0000が　もどってきちゃった！
-しんぱい　だったのかな……
-タマゴは　どうぐを　もてません！
-マークを　タッチしよう！
-ボックスに　おけます！
-てもちに　くわえることが　できます！
-このボックスは　いっぱいです！
-てもちが　いっぱいです！
+\xf000Ă\x0001\x0000 kam zurück!
+War es in Sorge um dich?
+Ein Ei kann kein Item tragen.
+Berühre eine Markierung!
+POKÉMON ABLEGEN
+WITHDRAW POKÉMON
+Die Box ist voll.
+Your party's full!
 ポケモンを　あずける
 ポケモンを　つれていく
 ボックスを　せいりする
-もちものを　せいりする
-バトルボックス
-ねかすポケモンをえらぶ
-メールは　いどうできません！
-\xf000ĉ\x0001\x0000を　もてない！
-メールを　もっています！
-たたかうポケモンが　いなくなります！
-メールは　いどうできません！
-ここでは　メールを　もたせられません
-タマゴは　えらべません！
-\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
-このポケモンは\xfffeいまは　ねむくないみたいです
-ポケモンせんたくを　つづけますか？
-バトルボックスが　ロックされています\xfffeポケモンは　いどう　できません
-バトルボックスが　ロックされています\xfffeもちものは　へんこう　できません
+ITEMS BEWEGEN
+KAMPFBOX
+POKÉMON ZU BETT BRINGEN
+Briefe können nicht bewegt werden!
+Es kann \xf000ĉ\x0001\x0000 nicht tragen!
+Entferne zuerst den Brief!
+Das ist dein letztes Pokémon!
+Briefe können nicht bewegt werden!
+Briefe können hier nicht vergeben werden.
+Mit einem Ei ist dies nicht möglich!
+\xf000Ă\x0001\x0000 wird schlafen geschickt.\xfffeFortfahren?
+Dieses Pokémon scheint gerade nicht\xfffemüde genug zu sein.
+Ein anderes Pokémon auswählen?
+Die Kampfbox wurde abgeriegelt.\xfffeKein Zugriff auf ihren Inhalt möglich.
+Die Kampfbox wurde abgeriegelt. Es ist\xfffekein Zugriff mit Items auf sie möglich.
